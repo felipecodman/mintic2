@@ -1,6 +1,3 @@
-from typing import Tuple
-
-
 elementos = {'a': 1, 'b': 2, 'c': 3, 'd':4}
 
 """ elementos['nombre'] = 'Cody' #Crea la llave con su valor

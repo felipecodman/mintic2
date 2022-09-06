@@ -34,3 +34,9 @@ consultaRegistro(AutoPartes([
  (2564,'Cárter', 'PT29872',2,32,'Peter Cerezo',8545436,'14/06/2020'),
  (5412,'válvula', 'AZ8798',2,11,'Juan Peña',568975,'14/06/2020')]), 9852)
 print()
+
+
+
+
+
+

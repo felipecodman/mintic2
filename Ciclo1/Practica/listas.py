@@ -29,11 +29,9 @@ lista_cursos.clear() #Elimina toda una lista """
 
 #print(lista_cursos)
 
-from operator import index
-
-
 lista = [10, 15, 4, 100, 20, 1, 8, 600, 3]
 
+print (lista[-3:])
 
 
 lista.sort() #Ordena los numeros de menor a mayor
