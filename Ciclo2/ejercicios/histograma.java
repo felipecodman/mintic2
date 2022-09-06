@@ -1,4 +1,4 @@
-package Ciclo2.Retos;
+package Ciclo2.ejercicios;
 
 public class histograma {
 
