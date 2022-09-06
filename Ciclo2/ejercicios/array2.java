@@ -1,4 +1,4 @@
-package Ciclo2.Retos;
+package Ciclo2.ejercicios;
 
 import java.util.Arrays;
 
